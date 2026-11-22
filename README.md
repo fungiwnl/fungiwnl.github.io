@@ -2,7 +2,7 @@
 
 My portfolio site, as an interactive terminal in the browser. Built with [jQuery Terminal](https://terminal.jcubic.pl/).
 
-Live: https://fungiwnl.github.io/terminal/
+Live: https://fungiwnl.github.io/
 
 ## Commands
 
