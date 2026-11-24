@@ -55,21 +55,6 @@ embedded systems across retail,
 healthcare, government and entertainment.
     </template>
 
-    <template id="cv">
-📄 My CV/Resume:
-
-[[!;;;;https://github.com/fungiwnl/cv/blob/main/cv.pdf]github.com/fungiwnl/cv]
-
-    (\ 
-    \'\ 
-     \'\     __________  
-     / '|   ()_________)
-     \ '/    \ ~~~~~~~~ \         
-       \       \ ~~~~~~   \
-       ==).      \__________\
-      (__)       ()__________)
-    </template>
-
     <template id="email">
 📧 Get in touch:
 
@@ -153,7 +138,6 @@ https://www.ozbargain.com.au/deals
 
   about      Who I am
   projects   Things I've worked on
-  cv         My CV/resume
   email      Get in touch
   github     My GitHub profile
   linkedin   My LinkedIn profile
@@ -179,9 +163,6 @@ https://www.ozbargain.com.au/deals
                 projects.forEach(project => {
                     this.echo(`• ${formatProject(project)}`);
                 });
-            },
-            cv: function() {
-                this.echo(cv.innerHTML);
             },
             email: function() {
                 this.echo(email.innerHTML);

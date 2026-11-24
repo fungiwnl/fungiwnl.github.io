@@ -1,4 +1,4 @@
-# terminal
+# fungiwnl.github.io
 
 My portfolio site, as an interactive terminal in the browser. Built with [jQuery Terminal](https://terminal.jcubic.pl/).
 
@@ -11,7 +11,6 @@ Live: https://fungiwnl.github.io/
 | `help`      | List the commands           |
 | `about`     | Who I am                    |
 | `projects`  | Things I've worked on       |
-| `cv`        | My CV/resume                |
 | `email`     | Get in touch                |
 | `github`    | My GitHub profile           |
 | `linkedin`  | My LinkedIn profile         |
